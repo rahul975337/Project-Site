@@ -1,0 +1,21 @@
+.title {
+  text-align: center;
+  color: #617d98;
+}
+article {
+  margin: 30px;
+  transition: all 0.3s ease-in-out;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 5px 5px 5px 0 rgba(0, 0, 0, 0.19);
+}
+
+article:hover {
+  transform: scale(1.02);
+  box-shadow: 2rem black;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.links {
+  display: flex;
+  justify-content: space-between;
+}
+
+
