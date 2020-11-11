@@ -4,15 +4,19 @@
 
   text-align: center;
 }
+.App {
+  background: #f1f5f8;
+}
 header {
   height: 250px;
-  color: pink;
+  color: white;
   align-items: center;
   background-color: #282c35;
 }
 
 header h1 {
   padding-top: 70px;
+  font-weight: bold;
   font-size: 4rem;
 }
 .projects {
