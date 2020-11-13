@@ -3,29 +3,25 @@ const projects = [
     id: 1,
     title: "COVID Tracker",
     category: "react",
-    img: "./assets/Robofriends.webp",
-    desc:
-      "This is a Covid-19 Tracker App created with React and Material UI that keeps a track of your covid-19 cases . ",
-    live_link: "https://covid-tracker-71c01.web.app/",
+    img: "./assets/react-covid-tracker.png",
+
+    live_link: "https://covid-tracker-rt.netlify.app",
     repo_link: "https://github.com/rahul975337/Covid-tracker-react",
   },
   {
     id: 2,
-    title: "COVID Tracker",
+    title: "Portfolio",
     category: "react",
-    img: "./assets/react-covid-tracker.png",
-    desc:
-      "This is a Covid-19 Tracker App created with React and Material UI that keeps a track of your covid-19 cases . ",
-    live_link: "https://covid-tracker-71c01.web.app/",
-    repo_link: "https://github.com/rahul975337/Covid-tracker-react",
+    img: "./assets/portfolio-react.png",
+    live_link: "https://rahul-tilwani.netlify.app/",
+    repo_link: "https://github.com/rahul975337/React-Portfolio",
   },
   {
     id: 3,
     title: "COVID Tracker",
-    category: "react",
-    img: "./assets/react-covid-tracker.png",
-    desc:
-      "This is a Covid-19 Tracker App created with React and Material UI that keeps a track of your covid-19 cases . ",
+    category: "android",
+    img: "./assets/-covid-tracker.png",
+
     live_link: "https://covid-tracker-71c01.web.app/",
     repo_link: "https://github.com/rahul975337/Covid-tracker-react",
   },
@@ -33,111 +29,35 @@ const projects = [
     id: 4,
     title: "COVID Tracker",
     category: "flutter",
-    img: "./assets/react-covid-tracker.png",
-    desc:
-      "This is a Covid-19 Tracker App created with React and Material UI that keeps a track of your covid-19 cases . ",
+    img: "./assets/-covid-tracker.png",
+
     live_link: "https://covid-tracker-71c01.web.app/",
     repo_link: "https://github.com/rahul975337/Covid-tracker-react",
   },
   {
     id: 5,
-    title: "COVID Tracker",
+    title: "Theme Toggler",
     category: "react",
-    img: "./assets/react-covid-tracker.png",
-    desc:
-      "This is a Covid-19 Tracker App created with React and Material UI that keeps a track of your covid-19 cases . ",
-    live_link: "https://covid-tracker-71c01.web.app/",
-    repo_link: "https://github.com/rahul975337/Covid-tracker-react",
+    img: "./assets/theme-toggler-react.png",
+    live_link: "https://theme-toggler-rt.netlify.app/",
+    repo_link:
+      "https://github.com/rahul975337/REACT-HC-5-CONTEXT-API-THEME-TOGGLER",
   },
   {
     id: 6,
-    title: "COVID Tracker",
-    category: "flutter",
-    img: "./assets/react-covid-tracker.png",
-    desc:
-      "This is a Covid-19 Tracker App created with React and Material UI that keeps a track of your covid-19 cases . ",
-    live_link: "https://covid-tracker-71c01.web.app/",
-    repo_link: "https://github.com/rahul975337/Covid-tracker-react",
+    title: "State Counter",
+    category: "react",
+    img: "./assets/state-counter.png",
+    live_link: "https://state-counter-rt.netlify.app/",
+    repo_link: "https://github.com/rahul975337/REACT-HC-3-STATE-COUNTER",
   },
   {
     id: 7,
-    title: "COVID Tracker",
+    title: "Tic Tac Toe",
     category: "react",
-    img: "./assets/react-covid-tracker.png",
-    desc:
-      "This is a Covid-19 Tracker App created with React and Material UI that keeps a track of your covid-19 cases . ",
-    live_link: "https://covid-tracker-71c01.web.app/",
-    repo_link: "https://github.com/rahul975337/Covid-tracker-react",
-  },
-  {
-    id: 8,
-    title: "COVID Tracker",
-    category: "flutter",
-    img: "./assets/react-covid-tracker.png",
-    desc:
-      "This is a Covid-19 Tracker App created with React and Material UI that keeps a track of your covid-19 cases . ",
-    live_link: "https://covid-tracker-71c01.web.app/",
-    repo_link: "https://github.com/rahul975337/Covid-tracker-react",
-  },
-  {
-    id: 9,
-    title: "COVID Tracker",
-    category: "react",
-    img: "./assets/react-covid-tracker.png",
-    desc:
-      "This is a Covid-19 Tracker App created with React and Material UI that keeps a track of your covid-19 cases . ",
-    live_link: "https://covid-tracker-71c01.web.app/",
-    repo_link: "https://github.com/rahul975337/Covid-tracker-react",
-  },
-  {
-    id: 10,
-    title: "COVID Tracker",
-    category: "flutter",
-    img: "./assets/react-covid-tracker.png",
-    desc:
-      "This is a Covid-19 Tracker App created with React and Material UI that keeps a track of your covid-19 cases . ",
-    live_link: "https://covid-tracker-71c01.web.app/",
-    repo_link: "https://github.com/rahul975337/Covid-tracker-react",
-  },
-  {
-    id: 11,
-    title: "COVID Tracker",
-    category: "react",
-    img: "./assets/react-covid-tracker.png",
-    desc:
-      "This is a Covid-19 Tracker App created with React and Material UI that keeps a track of your covid-19 cases . ",
-    live_link: "https://covid-tracker-71c01.web.app/",
-    repo_link: "https://github.com/rahul975337/Covid-tracker-react",
-  },
-  {
-    id: 12,
-    title: "COVID Tracker",
-    category: "android",
-    img: "./assets/react-covid-tracker.png",
-    desc:
-      "This is a Covid-19 Tracker App created with React and Material UI that keeps a track of your covid-19 cases . ",
-    live_link: "https://covid-tracker-71c01.web.app/",
-    repo_link: "https://github.com/rahul975337/Covid-tracker-react",
-  },
-  {
-    id: 13,
-    title: "COVID Tracker",
-    category: "react",
-    img: "./assets/react-covid-tracker.png",
-    desc:
-      "This is a Covid-19 Tracker App created with React and Material UI that keeps a track of your covid-19 cases . ",
-    live_link: "https://covid-tracker-71c01.web.app/",
-    repo_link: "https://github.com/rahul975337/Covid-tracker-react",
-  },
-  {
-    id: 14,
-    title: "COVID Tracker",
-    category: "react",
-    img: "./assets/react-covid-tracker.png",
-    desc:
-      "This is a Covid-19 Tracker App created with React and Material UI that keeps a track of your covid-19 cases . ",
-    live_link: "https://covid-tracker-71c01.web.app/",
-    repo_link: "https://github.com/rahul975337/Covid-tracker-react",
+    img: "./assets/tic-tac-toe.png",
+    live_link: "https://tic-tac-toe-rt.netlify.app/",
+    repo_link: "https://github.com/rahul975337/REACT-HC-4-TIC-TAC-TOE",
   },
 ];
 export default projects;
