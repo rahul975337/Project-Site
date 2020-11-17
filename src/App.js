@@ -12,6 +12,7 @@ const allCategories = [
 ///////////
 function App() {
   const [menuItems, setMenuItems] = useState(projects);
+  // eslint-disable-next-line
   const [categories, setCategories] = useState(allCategories);
   ////////////////////////////////////
   const filterItems = (category) => {
