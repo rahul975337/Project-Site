@@ -1,5 +1,5 @@
 import React from "react";
-// import image from "./assets/react-covid-tracker.png";
+
 import Card from "react-bootstrap/Card";
 import Button from "react-bootstrap/Button";
 import "bootstrap/dist/css/bootstrap.min.css";
@@ -9,7 +9,7 @@ const Project = ({ items }) => {
   return (
     <div className="projects">
       {items.map((menuItem) => {
-        const { id, title, img, live_link, repo_link } = menuItem;
+        const { title, img, live_link, repo_link } = menuItem;
         return (
           <article>
             <Card class style={{ width: "20rem" }}>
