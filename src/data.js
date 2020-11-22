@@ -119,7 +119,7 @@ const projects = [
     id: 15,
     title: "Arm Fitness",
     category: "web development",
-    img: "./assets/tours.png",
+    img: "./assets/Screenshot (82).png",
     live_link: "https://arm-fitness-rt.netlify.app/",
     repo_link: "https://github.com/rahul975337/Gym-Website",
   },
